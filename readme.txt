@@ -1,4 +1,4 @@
 hello world
 
 
-added new lines
+added new lines and check if commited
